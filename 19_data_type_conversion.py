@@ -28,3 +28,6 @@ print(int(bool_d))
 print(ord('d'))
 
 string_demo = "HeloHelo"
+#print(ord(string_demo))
+#@ord() function require character to print it's asci value , if you pass the whole string, it will throw an error
+
