@@ -7,7 +7,7 @@ nowTime = datetime.now()
 Current_Time = nowTime.strftime("%H : %M : %S \n")
 str_user = "Pranay"
 
-print( Fore.BLUE + f'''
+print( Fore.RED + f'''
           (      )
               ~(^^^^)~
                ) @@ \~_          |/                                         It's a great day to start hitting more goals
