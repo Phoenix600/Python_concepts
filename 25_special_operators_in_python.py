@@ -32,3 +32,12 @@ print(bool_result)
 sample_list = ['pranay','single','150+',20]
 bool_reult = 'single' in sample_list
 print(f"Single Status  : {bool_result}")
+
+dict_x = {1: 'a',2:'b'}
+print('H' in dict_x)
+print(1 in dict_x)
+
+
+
+
+
