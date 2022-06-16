@@ -25,7 +25,7 @@ class Person :
         self.surname = surname
         self.age = age
     
-    def info(addtional=""):
+    def info(self,addtional=""):
         """ Prints the person's information """
         print(f'''
         [1] Name        :   {self.name}
